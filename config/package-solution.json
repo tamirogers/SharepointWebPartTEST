@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "web-part-test-client-side-solution",
+    "id": "71c19e34-6606-4a2c-b5ee-600c9848ee62",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/web-part-test.sppkg"
+  }
+}
